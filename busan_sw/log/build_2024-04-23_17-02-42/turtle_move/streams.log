@@ -1,0 +1,20 @@
+[0.634s] Invoking command in '/home/yunchan/busan_sw/build/turtle_move': PYTHONPATH=/home/yunchan/busan_sw/build/turtle_move/prefix_override:/home/yunchan/busan_sw/install/turtle_move/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yunchan/busan_sw/build/turtle_move/build --no-deps symlink_data
+[0.822s] running develop
+[0.912s] running egg_info
+[0.913s] writing turtle_move.egg-info/PKG-INFO
+[0.913s] writing dependency_links to turtle_move.egg-info/dependency_links.txt
+[0.913s] writing entry points to turtle_move.egg-info/entry_points.txt
+[0.913s] writing requirements to turtle_move.egg-info/requires.txt
+[0.913s] writing top-level names to turtle_move.egg-info/top_level.txt
+[0.915s] reading manifest file 'turtle_move.egg-info/SOURCES.txt'
+[0.915s] writing manifest file 'turtle_move.egg-info/SOURCES.txt'
+[0.945s] running build_ext
+[0.945s] Creating /home/yunchan/busan_sw/install/turtle_move/lib/python3.8/site-packages/turtle-move.egg-link (link to .)
+[0.946s] Installing moveTurtleBot script to /home/yunchan/busan_sw/install/turtle_move/lib/turtle_move
+[0.946s] Installing moveTurtleSim script to /home/yunchan/busan_sw/install/turtle_move/lib/turtle_move
+[0.946s] Installing moveTurtleSim2 script to /home/yunchan/busan_sw/install/turtle_move/lib/turtle_move
+[0.946s] 
+[0.946s] Installed /home/yunchan/busan_sw/build/turtle_move
+[0.947s] running symlink_data
+[0.947s] symbolically linking /home/yunchan/busan_sw/build/turtle_move/param/turtlesim.yaml -> /home/yunchan/busan_sw/install/turtle_move/share/turtle_move/param
+[0.969s] Invoked command in '/home/yunchan/busan_sw/build/turtle_move' returned '0': PYTHONPATH=/home/yunchan/busan_sw/build/turtle_move/prefix_override:/home/yunchan/busan_sw/install/turtle_move/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yunchan/busan_sw/build/turtle_move/build --no-deps symlink_data

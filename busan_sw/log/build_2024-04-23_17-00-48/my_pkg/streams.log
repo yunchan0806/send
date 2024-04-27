@@ -1,0 +1,20 @@
+[0.640s] Invoking command in '/home/yunchan/busan_sw/build/my_pkg': PYTHONPATH=/home/yunchan/busan_sw/build/my_pkg/prefix_override:/home/yunchan/busan_sw/install/my_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yunchan/busan_sw/build/my_pkg/build --no-deps symlink_data
+[0.828s] running develop
+[0.918s] running egg_info
+[0.918s] writing my_pkg.egg-info/PKG-INFO
+[0.919s] writing dependency_links to my_pkg.egg-info/dependency_links.txt
+[0.919s] writing entry points to my_pkg.egg-info/entry_points.txt
+[0.919s] writing requirements to my_pkg.egg-info/requires.txt
+[0.919s] writing top-level names to my_pkg.egg-info/top_level.txt
+[0.920s] reading manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.921s] writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.950s] running build_ext
+[0.951s] Creating /home/yunchan/busan_sw/install/my_pkg/lib/python3.8/site-packages/my-pkg.egg-link (link to .)
+[0.951s] Installing simplepub script to /home/yunchan/busan_sw/install/my_pkg/lib/my_pkg
+[0.951s] Installing simplesub script to /home/yunchan/busan_sw/install/my_pkg/lib/my_pkg
+[0.952s] Installing simpletimepub script to /home/yunchan/busan_sw/install/my_pkg/lib/my_pkg
+[0.952s] Installing simpletimesub script to /home/yunchan/busan_sw/install/my_pkg/lib/my_pkg
+[0.952s] 
+[0.952s] Installed /home/yunchan/busan_sw/build/my_pkg
+[0.952s] running symlink_data
+[0.974s] Invoked command in '/home/yunchan/busan_sw/build/my_pkg' returned '0': PYTHONPATH=/home/yunchan/busan_sw/build/my_pkg/prefix_override:/home/yunchan/busan_sw/install/my_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yunchan/busan_sw/build/my_pkg/build --no-deps symlink_data

@@ -1,0 +1,20 @@
+[0.639s] Invoking command in '/home/yunchan/busan_sw/build/turtle_move': PYTHONPATH=/home/yunchan/busan_sw/build/turtle_move/prefix_override:/home/yunchan/busan_sw/install/turtle_move/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yunchan/busan_sw/build/turtle_move/build --no-deps symlink_data
+[0.812s] running develop
+[0.900s] running egg_info
+[0.900s] writing turtle_move.egg-info/PKG-INFO
+[0.900s] writing dependency_links to turtle_move.egg-info/dependency_links.txt
+[0.900s] writing entry points to turtle_move.egg-info/entry_points.txt
+[0.900s] writing requirements to turtle_move.egg-info/requires.txt
+[0.900s] writing top-level names to turtle_move.egg-info/top_level.txt
+[0.901s] reading manifest file 'turtle_move.egg-info/SOURCES.txt'
+[0.902s] writing manifest file 'turtle_move.egg-info/SOURCES.txt'
+[0.932s] running build_ext
+[0.933s] Creating /home/yunchan/busan_sw/install/turtle_move/lib/python3.8/site-packages/turtle-move.egg-link (link to .)
+[0.933s] Installing moveTurtleBot script to /home/yunchan/busan_sw/install/turtle_move/lib/turtle_move
+[0.934s] Installing moveTurtleSim script to /home/yunchan/busan_sw/install/turtle_move/lib/turtle_move
+[0.934s] Installing moveTurtleSim2 script to /home/yunchan/busan_sw/install/turtle_move/lib/turtle_move
+[0.934s] Installing simpleParam script to /home/yunchan/busan_sw/install/turtle_move/lib/turtle_move
+[0.934s] 
+[0.934s] Installed /home/yunchan/busan_sw/build/turtle_move
+[0.934s] running symlink_data
+[0.980s] Invoked command in '/home/yunchan/busan_sw/build/turtle_move' returned '0': PYTHONPATH=/home/yunchan/busan_sw/build/turtle_move/prefix_override:/home/yunchan/busan_sw/install/turtle_move/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yunchan/busan_sw/build/turtle_move/build --no-deps symlink_data

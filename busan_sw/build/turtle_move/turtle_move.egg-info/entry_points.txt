@@ -1,0 +1,6 @@
+[console_scripts]
+moveTurtleBot = turtle_move.moveTurtleBot:main
+moveTurtleSim = turtle_move.moveTurtleSim:main
+moveTurtleSim2 = turtle_move.moveTurtleSim2:main
+simpleParam = turtle_move.simpleParam:main
+
